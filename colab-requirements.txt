@@ -1,5 +1,5 @@
 albumentations==0.4.3
-diffusers
+-e git+https://github.com/robertmkjeffrey/diffusers.git@main#egg=diffusers
 opencv-python==4.1.2.30
 pudb==2019.2
 invisible-watermark
